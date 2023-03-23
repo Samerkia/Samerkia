@@ -1,5 +1,10 @@
 ### Hi there 👋
+I am a soon to be Bachelor's of Science (Computer Science - Cybersecurity and Secure Software Development) graduate! Expected May 2023
+I like breaking and creating things, cybersecurity things, and AI!
+## Links
+[My LinkedIn Page](https://www.linkedin.com/in/nicholas-raffel-9b0094213/)
 
+[My Portfolio](https://raffeln6264.wixsite.com/nickportfolio/projects)
 <!--
 **Samerkia/Samerkia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
