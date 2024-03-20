@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am a soon to be Bachelor's of Science (Computer Science - Cybersecurity and Secure Software Development) graduate! Expected May 2023
-I like breaking and creating things, cybersecurity things, and AI!
+Bachelor's of Science (Computer Science - Cybersecurity and Secure Software Development) graduate!
+I like breaking and creating things, cybersecurity things, robotics, and AI!
 ## Links
 [My LinkedIn Page](https://www.linkedin.com/in/nicholas-raffel-9b0094213/)
 
